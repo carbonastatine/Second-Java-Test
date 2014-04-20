@@ -1,0 +1,16 @@
+
+
+
+1) Review points for Quiz #2 (make sure to check with the regular and enhanced for loop slides!!)
+    - practice how to use/write while, regular for, and enhanced for loops
+    - practice how to modify a while loop to a regular for loop and an enhanced for loop
+- practice how to write switch statements to make decisions, including the switch syntax and how to get the output
+2) practice how to calculate the length of an array, how to access each element of an array, 
+    and how to display the value of array elements (take a look at the slide!)
+3) how to distinguish a recursive method from an iterative method, how to identify the base case 
+    and the recursive case, and how to get the output
+4) practice how to correctly use the System.out.format() method to display formatted number 
+    outputs for numbers with different formats/styles (make sure to practice with the DemoSystemOutFormat.java slide!!!)
+5) how to use switch-based decision making
+6) The materials for reading an input file and write an output file as well as 
+    ArrayList/Vector will not be covered this time, but will be covered in the next quiz and exam.
