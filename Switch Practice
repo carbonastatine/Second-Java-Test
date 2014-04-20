@@ -1,0 +1,31 @@
+import java.util.Scanner;
+
+
+public class SwitchPractice2 
+{
+
+	public static void main(String[] args) 
+	{
+		System.out.println("\nTrue or False: Cat is amazing.");
+		Scanner sc = new Scanner(System.in);
+		String i = sc.nextLine();
+		
+		switch(i)
+		{
+			case "True":
+				System.out.println("\tAw, thank you.");
+				break;
+				
+			case "False":
+				System.out.println("\tAsshole.");
+				break;
+				
+			default:
+				System.out.println("\thmph");
+				break;
+				
+		}
+		
+	}
+
+}
