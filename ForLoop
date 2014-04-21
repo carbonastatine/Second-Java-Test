@@ -1,0 +1,32 @@
+//Displays all the odd and even numbers 
+//between a user entered number and one.
+
+import java.util.Scanner;
+
+
+public class ForLoops 
+{
+
+	public static void main(String[] args) 
+	{
+		System.out.print("Enter number: ");
+		Scanner sc = new Scanner(System.in);
+		int n = sc.nextInt();
+	
+		System.out.print("\nOdd numbers are: ");
+		for(int i = 0; i < n; ++i)
+		{
+			System.out.print(++i +" ");
+		}
+
+		System.out.print("\n");
+		
+		System.out.print("\nEven numbers are: ");
+		for(int i = 1; i <= n; ++i)
+		{
+			System.out.print(++i +" ");	
+		}
+		
+	}
+
+}
