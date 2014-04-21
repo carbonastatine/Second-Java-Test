@@ -22,7 +22,7 @@ public class ForLoops
 		System.out.print("\n");
 		
 		System.out.print("\nEven numbers are: ");
-		for(int i = 1; i <= n; ++i)
+		for(int i = 1; i < n; ++i)
 		{
 			System.out.print(++i +" ");	
 		}
